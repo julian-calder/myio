@@ -1,0 +1,5 @@
+myio
+test
+*.o
+*.txt
+test_stdlib
